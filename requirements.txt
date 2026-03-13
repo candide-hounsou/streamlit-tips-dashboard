@@ -3,3 +3,10 @@ seaborn
 pandas
 plotly
 pytest
+scikit-learn
+fastapi
+uvicorn
+httpx
+pydantic
+requests
+joblib
